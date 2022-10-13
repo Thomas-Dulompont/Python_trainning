@@ -17,10 +17,10 @@ Retrouvez sur ce dépôt tous les petits exercices que j'ai fais en Python.
 - Les découvertes de python
 - Triages liste
 
-** Algo **
+**Algo**
 - [Algo Glouton](https://github.com/Thomas-Dulompont/Python_trainning/blob/main/algo/algo_glouton.ipynb)
 
-** Tri Liste **
+**Tri Liste**
 - [Insertion](https://github.com/Thomas-Dulompont/Python_trainning/blob/main/trieer_liste/insertion.ipynb)
 - [Selection](https://github.com/Thomas-Dulompont/Python_trainning/blob/main/trieer_liste/selection.ipynb)
 - [Bulle](https://github.com/Thomas-Dulompont/Python_trainning/blob/main/trieer_liste/bulle.ipynb)
