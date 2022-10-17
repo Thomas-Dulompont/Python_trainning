@@ -19,6 +19,7 @@ Retrouvez sur ce dépôt tous les petits exercices que j'ai fais en Python.
 
 **Algo**
 - [Algo Glouton](https://github.com/Thomas-Dulompont/Python_trainning/blob/main/algo/algo_glouton.ipynb)
+- [Arbre](https://github.com/Thomas-Dulompont/Python_trainning/blob/main/algo/arbre.ipynb)
 
 **Tri Liste**
 - [Insertion](https://github.com/Thomas-Dulompont/Python_trainning/blob/main/trieer_liste/insertion.ipynb)
